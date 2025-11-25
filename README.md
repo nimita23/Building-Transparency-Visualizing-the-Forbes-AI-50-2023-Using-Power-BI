@@ -111,6 +111,6 @@ https://app.powerbi.com/links/YlFUv8gUnQ?ctid=bdb74b30-9568-4856-bdbf-06759778fc
 ## 📬 Contact
 If you'd like to discuss visualization, analytics, or Power BI:
 **Nimita Narendra Mhatre**
-
+www.linkedin.com/in/nimitamhatre
 ---
 
