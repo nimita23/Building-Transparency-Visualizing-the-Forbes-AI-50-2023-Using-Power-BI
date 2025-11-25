@@ -1,0 +1,2 @@
+# Building-Transparency-Visualizing-the-Forbes-AI-50-2023-Using-Power-BI
+An interactive Power BI dashboard that transforms the Forbes AI 50 (2023) dataset into clear, insightful visual stories. This project showcases trends in global AI funding, geographic distribution of AI companies, industry categories, and innovation patterns. Includes analysis, design rationale, and recommendations for improvement.
