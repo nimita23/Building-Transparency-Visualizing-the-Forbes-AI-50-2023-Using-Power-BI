@@ -76,9 +76,9 @@ Based on project analysis:
 
 ## 📁 Files Included
 - `PR_24074731.pdf` – Full project narrative and analysis  
-- `dashboard.pbix` *(optional if you upload it)*  
+- `dashboard.pbix` 
 - `README.md` – Project documentation  
-- `AI50_2023.csv` *(use Kaggle link instead if not uploading raw file)*  
+- `AI50_2023.csv` 
 
 ---
 
